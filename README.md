@@ -2,7 +2,7 @@
 
 Este es un pequeño curso sobre las cosas básicas necesarias para programar en Python.
 
-![Logo-Python](Images\python-logo-chiqito.png)
+![Logo-Python](https://github.com/AlbertoSF99/Curso-basico-Python/blob/main/Images/python-logo-chiqito.png)
 
 -------------------------------------------------------------
 **Requisitos**
